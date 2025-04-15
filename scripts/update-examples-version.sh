@@ -52,8 +52,8 @@ echo "Setting examples version to ${NEW_VERSION}"
 # Update base pom version element
 sed -i.bak "/<\/parent>/,/<version>/ s~<version>[^<]*~<version>${NEW_VERSION}~g" ./pom.xml
 
-# Update parent pom version element for base pom and all other poms that dont match
-(grep -LPrzZ --include pom.xml --exclude-dir=artemis-distribution/target/ "<parent>(.|\n)*<version>${NEW_VERSION}<\/version>(.|\n)*<\/parent>" ./ || true) | xargs -0 sed -i.bak "/<parent>/,/<version>/ s~<version>[^<]*~<version>${NEW_VERSION}~g" ./pom.xml
+# Update parent pom version element for base pom and all other poms
+find . -path '*/target' -type d -prune -false -o -type f -name 'pom.xml' -print0 | xargs -0 sed -i.bak "/<parent>/,/<version>/ s~<version>[^<]*~<version>${NEW_VERSION}~g"
 
 # Clear out pom.xml.bak files
 find . -name "pom.xml.bak" -type f -exec rm -f '{}' \;
