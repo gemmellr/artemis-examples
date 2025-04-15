@@ -104,7 +104,7 @@ jobs:
 
   checks:
     name: Compile Check
-    runs-on: ubuntu-22.04
+    runs-on: macos-latest
     strategy:
       fail-fast: false
       matrix:
