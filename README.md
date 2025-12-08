@@ -1,6 +1,6 @@
-# ActiveMQ Artemis Examples
+# Apache Artemis Examples
 
-This repository contains various examples demonstrating many of the features of [Apache ActiveMQ Artemis](https://activemq.apache.org/components/artemis/).
+This repository contains various examples demonstrating many of the features of [Apache Artemis](https://artemis.apache.org).
 
 ## Getting Started
 

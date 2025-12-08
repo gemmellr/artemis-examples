@@ -32,7 +32,7 @@ under the License.
    <artifactId>artemis-examples-build</artifactId>
    <version>2.44.0</version>
    <packaging>pom</packaging>
-   <name>ActiveMQ Artemis Examples Build</name>
+   <name>Apache Artemis Examples Build</name>
 
    <properties>
       <checkstyle.skip>true</checkstyle.skip>

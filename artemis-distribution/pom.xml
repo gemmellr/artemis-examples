@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>artemis-distribution</artifactId>
    <packaging>pom</packaging>
-   <name>ActiveMQ Artemis Distribution For Examples</name>
+   <name>Apache Artemis Distribution For Examples</name>
 
    <build>
       <plugins>
