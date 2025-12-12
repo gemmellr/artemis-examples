@@ -37,7 +37,7 @@ under the License.
 
    <dependencies>
       <dependency>
-         <groupId>org.apache.activemq</groupId>
+         <groupId>org.apache.artemis</groupId>
          <artifactId>artemis-jakarta-client-all</artifactId>
          <version>${project.version}</version>
       </dependency>
@@ -57,7 +57,7 @@ under the License.
                   </goals>
                   <configuration>
                      <libList>
-                        <arg>org.apache.activemq:artemis-jakarta-client-all:${project.version}</arg>
+                        <arg>org.apache.artemis:artemis-jakarta-client-all:${project.version}</arg>
                         <arg>org.apache.activemq.examples.broker:queue-jakarta:${project.version}</arg>
                      </libList>
                      <variableName>ARTEMIS-JAKARTA</variableName>
