@@ -69,6 +69,11 @@ under the License.
                   </excludes>
                </configuration>
             </plugin>
+            <plugin>
+               <groupId>org.apache.activemq</groupId>
+               <artifactId>artemis-maven-plugin</artifactId>
+               <version>${project.version}</version>
+            </plugin>
          </plugins>
       </pluginManagement>
    </build>
