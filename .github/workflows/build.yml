@@ -10,17 +10,17 @@ on:
       examplesRepo:
         description: '(For non-main Examples) Artemis repo'
         required: true
-        default: 'apache/artemis'
+        default: 'gemmellr/artemis'
         type: string
       examplesRepoBranch:
         description: '(For non-main Examples) Artemis branch'
         required: true
-        default: 'main'
+        default: 'relocations-groupid-wip'
         type: string
 
 env:
-  ARTEMIS_REPO: ${{ inputs.examplesRepo || 'apache/artemis' }}
-  ARTEMIS_BRANCH: ${{ inputs.examplesRepoBranch || 'main' }}
+  ARTEMIS_REPO: ${{ inputs.examplesRepo || 'gemmellr/artemis' }}
+  ARTEMIS_BRANCH: ${{ inputs.examplesRepoBranch || 'relocations-groupid-wip' }}
 
 jobs:
   test:
