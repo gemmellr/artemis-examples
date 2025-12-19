@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>expiry</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis JMS Expiry Example</name>
+   <name>Apache Artemis JMS Expiry Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

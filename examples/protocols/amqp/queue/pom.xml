@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>queue</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis Proton-J Example</name>
+   <name>Apache Artemis Proton-J Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

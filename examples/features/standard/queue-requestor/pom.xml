@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>queue-requestor</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis JMS Queue Requestor Example</name>
+   <name>Apache Artemis JMS Queue Requestor Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>topic-selector2</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis JMS Topic Selector Example 2</name>
+   <name>Apache Artemis JMS Topic Selector Example 2</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

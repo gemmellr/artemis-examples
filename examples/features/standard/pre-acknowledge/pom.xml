@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>pre-acknowledge</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis JMS Pre Acknowledge Example</name>
+   <name>Apache Artemis JMS Pre Acknowledge Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

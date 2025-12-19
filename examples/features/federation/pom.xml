@@ -30,7 +30,7 @@ under the License.
    <groupId>org.apache.artemis.examples.federation</groupId>
    <artifactId>broker-federation</artifactId>
    <packaging>pom</packaging>
-   <name>ActiveMQ Artemis Federation Examples</name>
+   <name>Apache Artemis Federation Examples</name>
 
    <!-- Properties -->
    <properties>

@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>clustered-topic-uri</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis JMS Clustered Topic URI Example</name>
+   <name>Apache Artemis JMS Clustered Topic URI Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

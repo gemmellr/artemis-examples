@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>chat-example</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis Openwire chat Example</name>
+   <name>Apache Artemis Openwire chat Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>clustered-durable-subscription</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis JMS Clustered Durable Subscription Example</name>
+   <name>Apache Artemis JMS Clustered Durable Subscription Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

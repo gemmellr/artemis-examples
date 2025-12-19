@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>symmetric-cluster</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis JMS Symmetric Cluster Example</name>
+   <name>Apache Artemis JMS Symmetric Cluster Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

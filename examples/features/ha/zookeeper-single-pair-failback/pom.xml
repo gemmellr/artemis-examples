@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>zookeeper-single-pair-failback</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis Zookeeper Single Pair Ordered Failback Example</name>
+   <name>Apache Artemis Zookeeper Single Pair Ordered Failback Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

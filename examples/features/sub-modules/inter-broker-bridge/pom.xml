@@ -30,7 +30,7 @@ under the License.
    <groupId>org.apache.artemis.examples.modules</groupId>
    <artifactId>inter-broker-bridge-pom</artifactId>
    <packaging>pom</packaging>
-   <name>ActiveMQ Artemis Inter-broker Bridging Examples</name>
+   <name>Apache Artemis Inter-broker Bridging Examples</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>management</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis JMS Management Example</name>
+   <name>Apache Artemis JMS Management Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

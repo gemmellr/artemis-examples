@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>camel-war</artifactId>
    <packaging>war</packaging>
-   <name>ActiveMQ Artemis Camel WAR Application</name>
+   <name>Apache Artemis Camel WAR Application</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../../..</activemq.basedir>

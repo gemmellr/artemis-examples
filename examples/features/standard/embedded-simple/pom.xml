@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>embedded-simple</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis JMS Simple Embedded Example</name>
+   <name>Apache Artemis JMS Simple Embedded Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

@@ -32,7 +32,7 @@ under the License.
 
     <artifactId>sasl-scram</artifactId>
     <packaging>jar</packaging>
-    <name>ActiveMQ Artemis SASL-SCRAM Example</name>
+    <name>Apache Artemis SASL-SCRAM Example</name>
 
     <dependencies>
         <dependency>

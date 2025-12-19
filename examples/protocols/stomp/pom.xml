@@ -30,7 +30,7 @@ under the License.
    <groupId>org.apache.artemis.examples.stomp</groupId>
    <artifactId>stomp-examples</artifactId>
    <packaging>pom</packaging>
-   <name>ActiveMQ Artemis stomp Examples</name>
+   <name>Apache Artemis stomp Examples</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../..</activemq.basedir>

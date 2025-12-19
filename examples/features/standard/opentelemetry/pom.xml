@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>opentelemetry</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis Broker Plugin Example</name>
+   <name>Apache Artemis Broker Plugin Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

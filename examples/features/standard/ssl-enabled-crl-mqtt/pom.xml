@@ -29,7 +29,7 @@ under the License.
 
     <artifactId>ssl-enabled-crl-mqtt</artifactId>
     <packaging>jar</packaging>
-    <name>ActiveMQ Artemis Mqtt CRL Example</name>
+    <name>Apache Artemis Mqtt CRL Example</name>
 
     <properties>
         <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

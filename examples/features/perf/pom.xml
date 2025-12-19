@@ -30,7 +30,7 @@ under the License.
    <groupId>org.apache.artemis.examples.soak</groupId>
    <artifactId>perf-root</artifactId>
    <packaging>pom</packaging>
-   <name>ActiveMQ Artemis Performance Examples</name>
+   <name>Apache Artemis Performance Examples</name>
 
    <!-- Properties -->
    <properties>

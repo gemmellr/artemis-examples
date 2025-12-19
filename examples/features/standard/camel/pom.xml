@@ -30,7 +30,7 @@ under the License.
    <groupId>org.apache.artemis.examples.broker.camel</groupId>
    <artifactId>camel</artifactId>
    <packaging>pom</packaging>
-   <name>ActiveMQ Artemis Camel Example</name>
+   <name>Apache Artemis Camel Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

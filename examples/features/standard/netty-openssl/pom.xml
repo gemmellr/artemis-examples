@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>netty-openssl</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis JMS Netty OpenSSL Example</name>
+   <name>Apache Artemis JMS Netty OpenSSL Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

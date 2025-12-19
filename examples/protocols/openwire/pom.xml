@@ -30,7 +30,7 @@ under the License.
    <groupId>org.apache.artemis.examples.openwire</groupId>
    <artifactId>openwire-examples</artifactId>
    <packaging>pom</packaging>
-   <name>ActiveMQ Artemis Openwire Examples</name>
+   <name>Apache Artemis Openwire Examples</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../..</activemq.basedir>

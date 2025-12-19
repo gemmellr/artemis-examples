@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>shared-storage-static-cluster</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis JMS Client Side Failover Listener Example</name>
+   <name>Apache Artemis JMS Client Side Failover Listener Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

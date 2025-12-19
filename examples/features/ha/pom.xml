@@ -30,7 +30,7 @@ under the License.
    <groupId>org.apache.artemis.examples.failover</groupId>
    <artifactId>broker-failover</artifactId>
    <packaging>pom</packaging>
-   <name>ActiveMQ Artemis Failover Examples</name>
+   <name>Apache Artemis Failover Examples</name>
 
    <!-- Properties -->
    <properties>

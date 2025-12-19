@@ -30,7 +30,7 @@ under the License.
    <groupId>org.apache.artemis.examples.broker-connection</groupId>
    <artifactId>broker-connections</artifactId>
    <packaging>pom</packaging>
-   <name>ActiveMQ Artemis Broker Connection Examples</name>
+   <name>Apache Artemis Broker Connection Examples</name>
 
    <!-- Properties -->
    <properties>

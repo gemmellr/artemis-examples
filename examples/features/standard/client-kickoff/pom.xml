@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>client-kickoff</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis JMS Kick Off Example</name>
+   <name>Apache Artemis JMS Kick Off Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

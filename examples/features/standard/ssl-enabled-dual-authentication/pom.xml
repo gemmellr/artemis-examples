@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>ssl-enabled-dual-authentication</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis JMS SSL Enabled Dual Authentication Example</name>
+   <name>Apache Artemis JMS SSL Enabled Dual Authentication Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

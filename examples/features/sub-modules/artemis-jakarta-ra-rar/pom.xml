@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>artemis-jakarta-rar</artifactId>
    <packaging>rar</packaging>
-   <name>ActiveMQ Artemis Jakarta Messaging 3.0 RA</name>
+   <name>Apache Artemis Jakarta Messaging 3.0 RA</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

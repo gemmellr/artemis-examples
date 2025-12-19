@@ -30,7 +30,7 @@ under the License.
    <groupId>org.apache.artemis.examples.clustered</groupId>
    <artifactId>broker-features</artifactId>
    <packaging>pom</packaging>
-   <name>ActiveMQ Artemis Features Examples</name>
+   <name>Apache Artemis Features Examples</name>
 
    <!-- Properties -->
    <properties>

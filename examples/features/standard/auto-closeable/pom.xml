@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>auto-closeable</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis JMS Auto Closable Example</name>
+   <name>Apache Artemis JMS Auto Closable Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

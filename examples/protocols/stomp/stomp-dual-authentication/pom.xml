@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>stomp-dual-authentication</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis Stomp Dual Authentication Example</name>
+   <name>Apache Artemis Stomp Dual Authentication Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

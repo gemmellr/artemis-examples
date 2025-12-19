@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>federated-address-downstream</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis Downstream Federated Address Example</name>
+   <name>Apache Artemis Downstream Federated Address Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

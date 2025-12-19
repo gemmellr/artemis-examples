@@ -30,7 +30,7 @@ under the License.
    <groupId>org.apache.artemis.examples.amqp</groupId>
    <artifactId>amqp</artifactId>
    <packaging>pom</packaging>
-   <name>ActiveMQ Artemis amqp Examples</name>
+   <name>Apache Artemis amqp Examples</name>
 
    <!-- Properties -->
    <properties>

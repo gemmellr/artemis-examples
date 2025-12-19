@@ -23,7 +23,7 @@ under the License.
    <modelVersion>4.0.0</modelVersion>
    <artifactId>artemis-jms-soak-example</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis Soak Normal Example</name>
+   <name>Apache Artemis Soak Normal Example</name>
 
    <parent>
       <groupId>org.apache.artemis.examples.soak</groupId>

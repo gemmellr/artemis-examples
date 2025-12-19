@@ -29,7 +29,7 @@ under the License.
 
    <artifactId>message-counters</artifactId>
    <packaging>jar</packaging>
-   <name>ActiveMQ Artemis JMS Message Counter Example</name>
+   <name>Apache Artemis JMS Message Counter Example</name>
 
    <properties>
       <activemq.basedir>${project.basedir}/../../../..</activemq.basedir>

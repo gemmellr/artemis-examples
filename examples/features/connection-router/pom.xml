@@ -30,7 +30,7 @@ under the License.
    <groupId>org.apache.artemis.examples</groupId>
    <artifactId>connection-router</artifactId>
    <packaging>pom</packaging>
-   <name>ActiveMQ Artemis Connection Routers Examples</name>
+   <name>Apache Artemis Connection Routers Examples</name>
 
    <!-- Properties -->
    <properties>

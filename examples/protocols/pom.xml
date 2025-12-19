@@ -30,7 +30,7 @@ under the License.
    <groupId>org.apache.artemis.examples.protocols</groupId>
    <artifactId>protocols</artifactId>
    <packaging>pom</packaging>
-   <name>ActiveMQ Artemis Protocols Root Example</name>
+   <name>Apache Artemis Protocols Root Example</name>
 
    <!-- Properties -->
    <properties>
