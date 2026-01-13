@@ -82,7 +82,7 @@ public class ProtonCPPExample {
                   System.out.println("message received: " + messageReceived.getText());
 
                   // Sending message back to client
-                  producerAnswer.send(session.createTextMessage("HELLO from Apache Apache Artemis " + i + "!!"));
+                  producerAnswer.send(session.createTextMessage("HELLO from Apache Artemis " + i + "!!"));
                }
             } catch (Throwable e) {
                e.printStackTrace();
