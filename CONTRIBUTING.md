@@ -3,7 +3,7 @@
 Contributions should target the [`development`](https://github.com/apache/artemis-examples/tree/development) branch.
 
 * The [`development`](https://github.com/apache/artemis-examples/tree/development) branch is used for all development toward the next Artemis release and the related Examples, whether it be improving existing examples, creating new examples, or most especially for making any updates needed to match as-yet-unreleased changes in the upcoming Artemis version.
-* The [`main`](https://github.com/apache/artemis-examples/tree/main) branch contains examples for use with the latest ActiveMQ Artemis release.
+* The [`main`](https://github.com/apache/artemis-examples/tree/main) branch contains examples for use with the latest Artemis release.
 
 Like with the main repository, most examples changes should have an [ARTEMIS Jira issue](https://issues.apache.org/jira/projects/ARTEMIS) which should be referenced in the commit log message. See [https://artemis.apache.org/issues](https://artemis.apache.org/issues) for more details.
 
