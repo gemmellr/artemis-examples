@@ -45,6 +45,26 @@ under the License.
 
    <repositories>
       <repository>
+        <id>staging-artemis</id>
+        <url>https://repository.apache.org/content/repositories/orgapacheartemis-1010</url>
+        <releases>
+          <enabled>true</enabled>
+        </releases>
+        <snapshots>
+          <enabled>false</enabled>
+        </snapshots>
+      </repository>
+      <repository>
+        <id>staging-relocations</id>
+        <url>https://repository.apache.org/content/repositories/orgapacheactivemq-1450</url>
+        <releases>
+          <enabled>true</enabled>
+        </releases>
+        <snapshots>
+          <enabled>false</enabled>
+        </snapshots>
+      </repository>
+      <repository>
          <id>apache.snapshots</id>
          <name>Apache Development Snapshot Repository</name>
          <url>https://repository.apache.org/content/repositories/snapshots/</url>
@@ -56,6 +76,29 @@ under the License.
          </releases>
       </repository>
    </repositories>
+
+   <pluginRepositories>
+      <pluginRepository>
+        <id>staging-artemis</id>
+        <url>https://repository.apache.org/content/repositories/orgapacheartemis-1010</url>
+        <releases>
+          <enabled>true</enabled>
+        </releases>
+        <snapshots>
+          <enabled>false</enabled>
+        </snapshots>
+      </pluginRepository>
+      <pluginRepository>
+        <id>staging-relocations</id>
+        <url>https://repository.apache.org/content/repositories/orgapacheactivemq-1450</url>
+        <releases>
+          <enabled>true</enabled>
+        </releases>
+        <snapshots>
+          <enabled>false</enabled>
+        </snapshots>
+      </pluginRepository>
+   </pluginRepositories>
 
    <build>
       <pluginManagement>
