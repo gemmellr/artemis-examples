@@ -36,6 +36,7 @@ under the License.
 
    <properties>
       <checkstyle.skip>true</checkstyle.skip>
+      <version.maven-dependency-plugin>3.8.1</version.maven-dependency-plugin>
    </properties>
 
    <modules>
