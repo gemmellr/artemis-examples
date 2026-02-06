@@ -74,6 +74,7 @@ jobs:
         run: |
           cd artemis
           mvn -s ../artemis-examples/.github/maven-settings.xml install -DskipTests -T1C
+          mvn -s ../artemis-examples/.github/maven-settings.xml -f relocations/pom.xml install -DskipTests -T1C
 
       - name: Identify Examples Version (non-main Examples)
         id: identify-examples-version
@@ -155,6 +156,7 @@ jobs:
         run: |
           cd artemis
           mvn -s ../artemis-examples/.github/maven-settings.xml install -DskipTests -T1C
+          mvn -s ../artemis-examples/.github/maven-settings.xml -f relocations/pom.xml install -DskipTests -T1C
 
       - name: Identify Examples Version (non-main Examples)
         id: identify-examples-version
