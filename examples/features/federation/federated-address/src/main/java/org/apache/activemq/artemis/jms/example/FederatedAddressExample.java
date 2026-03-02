@@ -55,13 +55,13 @@ public class FederatedAddressExample {
 
 
          // Step 5. We create a JMS Connection connectionEUWest which is a connection to server EU West
-         connectionEUWest = cfEUWest.createConnection();
+         connectionEUWest = cfEUWest.createConnection("guest", "guest");
 
          // Step 6. We create a JMS Connection connectionEUEast which is a connection to server EU East
-         connectionEUEast = cfEUEast.createConnection();
+         connectionEUEast = cfEUEast.createConnection("guest", "guest");
 
          // Step 7. We create a JMS Connection connectionUSCentral which is a connection to server US Central
-         connectionUSCentral = cfUSCentral.createConnection();
+         connectionUSCentral = cfUSCentral.createConnection("guest", "guest");
 
          // Step 8. We create a JMS Session on server EU West
          Session sessionEUWest = connectionEUWest.createSession(false, Session.AUTO_ACKNOWLEDGE);

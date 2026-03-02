@@ -42,8 +42,9 @@ under the License.
 
       <!-- Federation -->
 
-      <!--No federation configuration necessary as the other brokers will be creating downstreams/upstreams
-      to this broker-->
+      <federations downstream-authorization="guest">
+         <!-- Only downstream-authorization role config necessary, the other brokers will be creating downstreams/upstreams to this broker-->
+      </federations>
 
       <!-- Other config -->
 

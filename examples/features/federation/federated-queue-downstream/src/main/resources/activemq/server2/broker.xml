@@ -46,8 +46,8 @@ under the License.
 
       <!-- Federation -->
 
-      <federations>
-         <federation name="us-central-1-federation">
+      <federations downstream-authorization="guest">
+         <federation name="us-central-1-federation" user="guest" password="guest">
             <downstream name="eu-east-1-downstream" priority-adjustment="-1">
                <circuit-breaker-timeout>1000</circuit-breaker-timeout>
                <static-connectors>
