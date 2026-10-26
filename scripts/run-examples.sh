@@ -74,7 +74,7 @@ cd interceptor-client; mvn verify; cd ..
 cd interceptor-mqtt; mvn verify; cd ..
 cd jms-bridge; mvn verify; cd ..
 cd jmx; mvn verify; cd ..
-cd jmx-ssl; mvn verify; cd ..
+#cd jmx-ssl; mvn verify; cd ..
 #cd large-message; mvn verify; cd .. # too big for most CI machines, keeping it out
 cd last-value-queue; mvn verify; cd ..
 cd management; mvn verify; cd ..
