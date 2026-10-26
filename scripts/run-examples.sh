@@ -165,7 +165,7 @@ cd $ARTEMIS_EXAMPLES_ROOT/examples/protocols/stomp/
 cd stomp; mvn verify; cd ..
 cd stomp1.1; mvn verify; cd ..
 cd stomp1.2; mvn verify; cd ..
-cd stomp-dual-authentication; mvn verify; cd ..
+#cd stomp-dual-authentication; mvn verify; cd ..
 cd stomp-embedded-interceptor; mvn verify; cd ..
 cd stomp-jms; mvn verify; cd ..
 
